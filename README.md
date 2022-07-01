@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin John
-- 👀 I’m interested in Go programming language
+- 👀 I’m interested in Go Programming Language
 - 🌱 I’m currently learning Go, PostgresSQL
 <!---
 loosec9n/loosec9n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

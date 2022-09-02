@@ -36,4 +36,4 @@ func GetBio() Bio {
 	}
 }
 ```
-[![Justin John's Activity Graph](https://activity-graph.herokuapp.com/graph?username=loosec9n&custom_title=Justin%20John's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Justin John's Activity Graph](https://activity-graph.herokuapp.com/graph?username=loosec9n&custom_title=Justin%20John's%20Contribution%20Graph&theme=gruvbox&bg_color=#0000FF&hide_border=true&line=d1a01f&point=c58545)]
